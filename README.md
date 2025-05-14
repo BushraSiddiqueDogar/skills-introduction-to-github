@@ -11,8 +11,8 @@ I love building projects that solve real-world problems and I'm always eager to 
 - Tools: GitHub, VS Code, Visual Studio, Android Studio, wordpress
 
 ###  How to reach me:
-- Email: msiddique8100@gmail.com
-- LinkedIn: linkedin.com/in/bushra-siddique-09a65a262
+- 📫 Email: [msiddique8100@gmail.com](mailto:msiddique8100@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/bushra-siddique-09a65a262](https://www.linkedin.com/in/bushra-siddique-09a65a262)  
 
 ###  Fun fact:
 I can debug code faster with a cup of chai ☕ :)
