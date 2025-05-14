@@ -8,7 +8,7 @@ I love building projects that solve real-world problems and I'm always eager to 
 - Languages: Python, JavaScript, C++, C#, OOP
 - Web: HTML, CSS, 
 - ML/AI: TensorFlow, scikit-learn
-- Tools: GitHub, VS Code, Visual Studio, Android Studio 
+- Tools: GitHub, VS Code, Visual Studio, Android Studio, wordpress
 
 ###  How to reach me:
 - Email: msiddique8100@gmail.com
